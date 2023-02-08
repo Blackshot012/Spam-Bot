@@ -4,6 +4,8 @@ very fast
 
 how use:
 pip install colorama
+
+
 pip install pyautogui
 
 how run:
